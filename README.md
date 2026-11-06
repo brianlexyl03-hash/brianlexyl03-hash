@@ -36,7 +36,7 @@ Technologies represented across my public repositories:
 
 ## `04` &nbsp; Find me
 
-For questions or collaboration, reach out through [GitHub](https://github.com/brianlexyl03-hash). No email address is listed here.
+For questions or collaboration, reach out through mail to: brianlexyl03@gmail.com
 
 ---
 
